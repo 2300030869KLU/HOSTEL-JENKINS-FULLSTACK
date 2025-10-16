@@ -63,7 +63,7 @@
 	</dependencies>
 
 	<build>
-	<fileNameMapping>springboothostelapi</fileNameMapping>
+	<fileName>springboothostelapi</fileName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
